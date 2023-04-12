@@ -1,6 +1,7 @@
 # ai-karaage-sensei
 AI Assistant with ChatGPT API
 
+[日本語のセットアップ記事](https://zenn.dev/karaage0703/articles/ca086022abdd70)
 
 ## Dependency
 - Ubuntu 22.04
