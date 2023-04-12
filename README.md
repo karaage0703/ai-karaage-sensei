@@ -21,6 +21,12 @@ $ cd ai-karaage-sensei
 $ ./setup.sh
 ```
 
+Write your open api secret key to `.config` file
+```
+[open_api_key]
+key = your_secret_open_api_key
+```
+
 Get icon
 ```sh
 $ git clone https://github.com/karaage0703/karaage_icon
